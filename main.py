@@ -24,16 +24,6 @@ print(example)
 # Task 3: Classes and Task 4: Libraries
 
 # Let's write an example
-try:
-    example = SquareGenerator(3,5)
-except InvalidRangeError as e:
-    print(f"Error: {e}")
-
-generator = example.generate_squares_and_roots()
-print("Squares and Square Roots:")
-for square, root in generator:
-    print(f"Number: {square}, Square Root: {root:.2f}")
-
 
 try:
     cube_generator = CubicGenerator(3, 5)
