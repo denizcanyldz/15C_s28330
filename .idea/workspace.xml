@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 7: Packages">
+    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 8: Inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/square_generator/square_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/square_generator/square_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711284664939</updated>
-      <workItem from="1711284668760" duration="2611000" />
+      <workItem from="1711284668760" duration="2938000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1: List Comprehensions">
       <option name="closed" value="true" />
@@ -155,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711286958745</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task 8: Inheritance">
+      <option name="closed" value="true" />
+      <created>1711287484449</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711287484449</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,9 +176,10 @@
     <MESSAGE value="Task 5: Exceptions" />
     <MESSAGE value="Task 6: Modules" />
     <MESSAGE value="Task 7: Packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 7: Packages" />
+    <MESSAGE value="Task 8: Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 8: Inheritance" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/15C_s28330$main.coverage" NAME="main Coverage Results" MODIFIED="1711287168850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/15C_s28330$main.coverage" NAME="main Coverage Results" MODIFIED="1711287425538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

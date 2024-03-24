@@ -28,3 +28,8 @@ class CubicGenerator(SquareGenerator):
             cube = x ** 3
             cubes.append((cube))
         return cubes
+
+    def generate_squares_and_roots(self):
+        if self.end < self.start:
+            raise InvalidRangeError("End of range must be greater than or equal to the start.")
+        return super().generate_squares_and_roots()
