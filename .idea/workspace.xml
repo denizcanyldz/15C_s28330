@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 1: List Comprehensions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 2: Functions">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711284664939</updated>
-      <workItem from="1711284668760" duration="635000" />
+      <workItem from="1711284668760" duration="934000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1: List Comprehensions">
       <option name="closed" value="true" />
@@ -94,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711285213318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task 2: Functions">
+      <option name="closed" value="true" />
+      <created>1711285574186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711285574186</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,9 +109,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1: List Comprehensions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1: List Comprehensions" />
+    <MESSAGE value="Task 2: Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2: Functions" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/15C_s28330$main.coverage" NAME="main Coverage Results" MODIFIED="1711285113692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/15C_s28330$main.coverage" NAME="main Coverage Results" MODIFIED="1711285552177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
