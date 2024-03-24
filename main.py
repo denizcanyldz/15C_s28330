@@ -1,6 +1,6 @@
 import math
 
-from square_generator.square_generator import SquareGenerator,InvalidRangeError
+from square_generator.square_generator import SquareGenerator,InvalidRangeError,CubicGenerator
 
 squares = []
 for x in range(1, 11):
@@ -35,3 +35,9 @@ for square, root in generator:
     print(f"Number: {square}, Square Root: {root:.2f}")
 
 
+try:
+    cube_generator = CubicGenerator(3, 5)
+    cubes_and_roots = cube_generator.generate_cubes()
+    print(cubes_and_roots)
+except InvalidRangeError as e:
+    print(f"Error: {e}")
