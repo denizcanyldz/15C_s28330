@@ -1,6 +1,6 @@
 import math
 
-from square_generator import SquareGenerator, InvalidRangeError
+from square_generator.square_generator import SquareGenerator,InvalidRangeError
 
 squares = []
 for x in range(1, 11):
