@@ -32,3 +32,4 @@ class CubicGenerator(SquareGenerator):
             square_root = math.sqrt(square)
             squares_and_roots.append((square, square_root))
         return squares_and_roots
+#

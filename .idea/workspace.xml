@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 8: Inheritance">
+    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 10: Abstract Elements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/square_generator/square_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/square_generator/square_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,20 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "denizcanyldz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b23d5650-eea1-4290-bfad-ce7441bb98d7" />
+        <option name="url" value="https://github.com/denizcanyldz/15C_s28330.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -96,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711284664939</updated>
-      <workItem from="1711284668760" duration="2938000" />
+      <workItem from="1711284668760" duration="4415000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1: List Comprehensions">
       <option name="closed" value="true" />
@@ -162,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711287484449</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task 9: Function Overriding">
+      <option name="closed" value="true" />
+      <created>1711287631008</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711287631008</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task 10: Abstract Elements">
+      <option name="closed" value="true" />
+      <created>1711287843775</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711287843775</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +206,9 @@
     <MESSAGE value="Task 6: Modules" />
     <MESSAGE value="Task 7: Packages" />
     <MESSAGE value="Task 8: Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 8: Inheritance" />
+    <MESSAGE value="Task 9: Function Overriding" />
+    <MESSAGE value="Task 10: Abstract Elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 10: Abstract Elements" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/15C_s28330$main.coverage" NAME="main Coverage Results" MODIFIED="1711287812184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
