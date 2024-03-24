@@ -18,9 +18,12 @@ def square_list(start, end):
 example = square_list(2, 6)
 print(example)
 
+
 # Task 3: Classes and Task 4: Libraries
 class SquareGenerator:
     def __init__(self,start,end):
+        if end < start:
+            raise InvalidRangeError("End of range must be greater than or equal to the start.")
         self.start = start
         self.end = end
 
@@ -32,12 +35,20 @@ class SquareGenerator:
             squares_and_roots.append((square, square_root))
         return squares_and_roots
 
+
+#Task 5: Exceptions
+class InvalidRangeError(Exception):
+    pass
+
 # Let's write an example
-example = SquareGenerator(3,5)
+try:
+    example = SquareGenerator(3,5)
+except InvalidRangeError as e:
+    print(f"Error: {e}")
+
 generator = example.generate_squares_and_roots()
 print("Squares and Square Roots:")
 for square, root in generator:
     print(f"Number: {square}, Square Root: {root:.2f}")
-
 
 

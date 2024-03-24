@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 3: Classes">
+    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 4: Libraries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711284664939</updated>
-      <workItem from="1711284668760" duration="1573000" />
+      <workItem from="1711284668760" duration="1887000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1: List Comprehensions">
       <option name="closed" value="true" />
@@ -110,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711285871777</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 4: Libraries">
+      <option name="closed" value="true" />
+      <created>1711286251323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711286251323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,9 +128,10 @@
     <MESSAGE value="Task 1: List Comprehensions" />
     <MESSAGE value="Task 2: Functions" />
     <MESSAGE value="Task 3: Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3: Classes" />
+    <MESSAGE value="Task 4: Libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4: Libraries" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/15C_s28330$main.coverage" NAME="main Coverage Results" MODIFIED="1711285841986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/15C_s28330$main.coverage" NAME="main Coverage Results" MODIFIED="1711286232049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
