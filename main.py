@@ -1,5 +1,7 @@
 import math
 
+from square_generator import SquareGenerator, InvalidRangeError
+
 squares = []
 for x in range(1, 11):
     squares.append(x ** 2)
@@ -20,25 +22,6 @@ print(example)
 
 
 # Task 3: Classes and Task 4: Libraries
-class SquareGenerator:
-    def __init__(self,start,end):
-        if end < start:
-            raise InvalidRangeError("End of range must be greater than or equal to the start.")
-        self.start = start
-        self.end = end
-
-    def generate_squares_and_roots(self):
-        squares_and_roots = []
-        for x in range(self.start, self.end + 1):
-            square = x**2
-            square_root = math.sqrt(square)
-            squares_and_roots.append((square, square_root))
-        return squares_and_roots
-
-
-#Task 5: Exceptions
-class InvalidRangeError(Exception):
-    pass
 
 # Let's write an example
 try:
