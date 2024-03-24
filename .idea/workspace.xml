@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="46f5cca2-d844-4afe-ab61-199a8a6a37e8" name="Changes" comment="Task 8: Inheritance">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/square_generator/square_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/square_generator/square_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -20,12 +39,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "lab__3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/square_generator" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="15C_s28330" />
@@ -66,19 +96,90 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711284664939</updated>
-      <workItem from="1711284668760" duration="1000" />
+      <workItem from="1711284668760" duration="2938000" />
     </task>
+    <task id="LOCAL-00001" summary="Task 1: List Comprehensions">
+      <option name="closed" value="true" />
+      <created>1711285213318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711285213318</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task 2: Functions">
+      <option name="closed" value="true" />
+      <created>1711285574186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711285574186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task 3: Classes">
+      <option name="closed" value="true" />
+      <created>1711285871777</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711285871777</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task 4: Libraries">
+      <option name="closed" value="true" />
+      <created>1711286251323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711286251323</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task 5: Exceptions">
+      <option name="closed" value="true" />
+      <created>1711286565655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711286565655</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task 6: Modules">
+      <option name="closed" value="true" />
+      <created>1711286708463</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711286708463</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task 7: Packages">
+      <option name="closed" value="true" />
+      <created>1711286958745</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711286958745</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task 8: Inheritance">
+      <option name="closed" value="true" />
+      <created>1711287484449</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711287484449</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1: List Comprehensions" />
+    <MESSAGE value="Task 2: Functions" />
+    <MESSAGE value="Task 3: Classes" />
+    <MESSAGE value="Task 4: Libraries" />
+    <MESSAGE value="Task 5: Exceptions" />
+    <MESSAGE value="Task 6: Modules" />
+    <MESSAGE value="Task 7: Packages" />
+    <MESSAGE value="Task 8: Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 8: Inheritance" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/15C_s28330$main.coverage" NAME="main Coverage Results" MODIFIED="1711287812184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
